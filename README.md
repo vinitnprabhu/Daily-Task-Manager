@@ -1,5 +1,5 @@
 ## Daily Task Manager REST API
-A Node.js and MongoDB-based task manager app is developed, adhering to RESTful API principles. Upon user registration or deactivation, the application sends email notifications. It's meticulously crafted using a straightforward scientific approach and industry-best practices for API design.
+Enables users to create an account and manage their daily tasks, with email reminders
 
 ### Functions
 * JWT based authentication
